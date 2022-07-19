@@ -30,8 +30,8 @@
 ![Playstation Vita](https://img.shields.io/badge/Playstation%20Vita-003791?style=flat-square&logo=playstation-vita&logoColor=white)
 ![3DS](https://img.shields.io/badge/3DS-D12228?style=flat-square&logo=nintendo-3ds&logoColor=white)
 -->
-### GitHub Stats
+##### GitHub Stats
 <div>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=fusionshore&show_icons=true&count_private=true"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fusionshore&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fusionshore&show_icons=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fusionshore&layout=compact&langs_count=8"/>
 </div>
