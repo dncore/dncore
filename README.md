@@ -32,8 +32,8 @@
 -->
 ##### GitHub Stats
 <div>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fusionshore&show_icons=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fusionshore&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dncore&show_icons=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dncore&layout=compact&langs_count=8"/>
 </div>
 Visitor Count
 
